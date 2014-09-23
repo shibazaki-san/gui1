@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gui1
+#
+
+projectname: gui1
+vendorid: com.mycompany
+mainmodule: com.mycompany.gui1
